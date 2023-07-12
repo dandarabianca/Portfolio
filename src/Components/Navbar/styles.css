@@ -1,0 +1,19 @@
+
+.border{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+ul{
+   display: flex;
+   flex-direction: row;
+}
+li{
+    display: list-item;
+    margin: 0 1em;
+    font-family: sans-serif;
+}

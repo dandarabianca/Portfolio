@@ -7,12 +7,14 @@
   h2{
     font-size: 5vh;
     text-align: center;
-    color: purple;
+    color:  rgb(102, 97, 97);
   }
   h1{
     font-size: 3em;
     text-align: center;
+    color: black;
   }
   span{
     font-size: 5vh;
   }
+

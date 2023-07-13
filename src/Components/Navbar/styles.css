@@ -1,19 +1,41 @@
-
-.border{
-    width: 100%;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 0;
-    padding-bottom: 0;
+.border {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: purple;
+  border-bottom: 2px solid purple;
+  padding: 0 2em;
 }
-ul{
-   display: flex;
-   flex-direction: row;
+ul {
+  display: flex;
+  flex-direction: row;
+  margin: 1.5em;
 }
-li{
-    display: list-item;
-    margin: 0 1em;
-    font-family: sans-serif;
+li {
+  display: list-item;
+  margin: 0 1vh 0 1.85vh;
+  font-family: sans-serif;
+  color: purple;
+  list-style-type: none;
+  font-size: 1em;
+}
+.intro-menu{
+  color: purple;
+  margin-top: 8rem;
+  width: 100%;
+  height: 100%;
+}
+h2{
+  font-size: 5vh;
+  text-align: center;
+  color: purple;
+}
+h1{
+  font-size: 3em;
+  text-align: center;
+}
+span{
+  font-size: 5vh;
 }

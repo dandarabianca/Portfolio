@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.css";
 export default function Navbar() {
-  const logo = '<Dandara />'
+  const logo = "<Dandara />";
   return (
     <div>
       <nav>
@@ -15,9 +15,12 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="intro-menu">
-            <h2>Óla me chamo</h2>
-            <h1>Dandara Bianca</h1>
-           </div>
+          <h2>Óla me chamo</h2>
+          <h1>Dandara Bianca</h1>
+        </div>
+        <div className="styles-menu">
+
+        </div>
       </nav>
     </div>
   );

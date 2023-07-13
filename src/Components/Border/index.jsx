@@ -13,9 +13,7 @@ export default function Border(){
          Possuo um sólido conhecimento técnico e habilidades em diversas linguagens de programação. Sou uma pessoa curiosa e sempre busca aprender novas tecnologias e ferramentas para aprimorar minhas habilidades. Estou atualmente em busca de novas oportunidades de trabalho, sou comprometida em criar soluções inovadoras e impactantes por meio da programação.
          </span>
          </div>
-         <div>
-            teste
          </div>
-         </div>
+         
     )
 }

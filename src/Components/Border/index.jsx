@@ -4,8 +4,9 @@ import LogoTexto from "../../Assets/img/teste.avif";
 
 export default function Border() {
   return (
+    <section id="cardProfile">
     <div className="border-container">
-      <div className="styles-menu">
+      <div className="styles-menu">        
         <span>Sobre mim</span>
       </div>
       <div className="intro-img">
@@ -23,5 +24,6 @@ export default function Border() {
           </span>
         </div>
     </div>
+    </section>
   );
 }

@@ -4,6 +4,8 @@ import Menu from "./Components/Menu/index";
 import Border from "./Components/Border/index";
 import Conhecimentos from "./Components/Conhecimentos/index";
 import Assets from "./Assets/img/img-react.svg.svg";
+import Projects from "./Components/Projects/index";
+import Contacts from "./Components/Contacts/index";
 function App() {
   return (
     <div className="App">
@@ -11,6 +13,8 @@ function App() {
       <Menu />
       <Border />
       <Conhecimentos />
+      <Projects />
+      <Contacts />
     </div>
   );
 }

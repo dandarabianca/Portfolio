@@ -3,10 +3,12 @@ import "./styles.css";
 
 export default function Conhecimentos(){
     return(
+        <section id="skills">
         <div>
         <div className="styles.conhec">
-            <h3>Teste</h3>
+            <h3>Conhecimentos</h3>
         </div>
         </div>
+        </section>
     );
 }

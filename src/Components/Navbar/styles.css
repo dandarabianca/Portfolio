@@ -20,6 +20,11 @@ li {
   color: rgb(102, 97, 97);
   list-style-type: none;
   font-size: 1em;
+  cursor: pointer;
+}
+li:hover{
+  color: black;
+  transition: 0.5s;
 }
 .styles-li{
   margin: 0 1vh 0 1.85vh;

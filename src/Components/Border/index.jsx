@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import LogoTexto from "../../Assets/img/teste.avif";
+import LogoTexto from "../../Assets/img/img-menu.avif";
 
 export default function Border() {
   return (

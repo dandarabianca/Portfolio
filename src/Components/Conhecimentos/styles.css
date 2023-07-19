@@ -7,3 +7,17 @@ h3{
     margin: 1.5em;
 
 }
+.card{
+    background-color: black;
+    height: 360px;
+    width: 335px;
+    border-radius: 20px;
+    padding: 20px 35px;
+    text-align: center;
+}
+.card img{
+    height: 100px;
+}
+.card h5{
+    color: white;
+}

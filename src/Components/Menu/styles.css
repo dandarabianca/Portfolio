@@ -1,5 +1,5 @@
 .intro-menu{
-    color: purple;
+    color: rgb(179, 72, 72);
     margin-top: 8rem;
     width: 100%;
     height: 100%;
@@ -7,7 +7,7 @@
   h2{
     font-size: 5vh;
     text-align: center;
-    color:  rgb(102, 97, 97);
+    color:  rgb(179, 72, 72);
   }
   h1{
     font-size: 3em;

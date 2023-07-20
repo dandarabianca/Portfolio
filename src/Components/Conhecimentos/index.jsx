@@ -13,7 +13,7 @@ export default function Conhecimentos(){
                 <img src={ListaTarefas} alt="Logo Tarefas"></img>
              <h5>Lista de Tarefas</h5>
              <span>Projeto lista de tarefas</span>
-             <a>Ver projetos</a>
+            <a>Ver projetos</a>
             </div>
         </div>
         </div>

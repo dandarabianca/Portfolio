@@ -9,6 +9,7 @@
     box-shadow: 1px 1px 1px 1px rgb(102, 97, 97);
     border-radius: 1em;
     margin: auto;
+    background-color: #c1c1c1;
   }
 .styles-menu{
     text-align: center;
@@ -31,4 +32,8 @@
     height: 650px;
     border-radius: 100%;
     border: 2px solid black;
+    overflow: hidden;
   }
+.imgBorder{
+  width: 100%;
+}

@@ -7,7 +7,7 @@ export default function Navbar() {
     <div>
       <nav>
         <div className="border">
-          <span>{logo}</span>
+          <span className="logo">{logo}</span>
           <ul className="styles-items">
             <li className="styles-li"> 
               <a href="#main">Inicio </a>
@@ -15,9 +15,6 @@ export default function Navbar() {
             <li className="styles-li">
               <a href="#cardProfile">Sobre </a>
               </li>
-            <li className="styles-li">
-              <a href="#skills">Conhecimentos </a>
-            </li>
             <li className="styles-li">
               <a href="#Projects">Projetos </a>
             </li>

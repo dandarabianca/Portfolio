@@ -10,7 +10,7 @@ export default function Border() {
         <span>Sobre mim</span>
       </div>
       <div className="intro-img">
-        <img src={LogoTexto} alt="Logo do Texto"></img>
+        <img src={LogoTexto} alt="Logo do Texto" className="imgBorder"></img>
         </div>
         <div className="styles-name">
           <span>

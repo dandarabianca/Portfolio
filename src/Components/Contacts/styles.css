@@ -15,19 +15,22 @@ footer span{
     color: black;
     font-size: 20px;
     margin-top: 14px;
+  
 }
 .social{
     display: flex;
     gap: 20px;
+    display: flex;
+    justify-content: space-between;
+    width:15%;
+    margin-top: 2em;
 }
 .social img{
-    height: 50px;
+    width: 50px;
     border-radius: 20%;
 }
 .social a{
-    width: 50%;
-    height: 4em;
-    margin: 0 0 5em;
+    width: 25%;
     display: flex;
     justify-content: center;
     align-items: center;

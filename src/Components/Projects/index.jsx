@@ -5,7 +5,7 @@ import Landing from "../../Assets/img/img-landing.png";
 
 export default function Projetos() {
   return (
-    <section id="skills">
+    <section id="Projects">
       <div className="projects-card">
         <div className="styles.conhec">
           <h3>Projetos</h3>

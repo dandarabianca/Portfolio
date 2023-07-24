@@ -8,7 +8,7 @@ h3 {
   color: rgb(179, 72, 72);
 }
 .card {
-  background-color: white;
+  background-color: #f1eaea;
   height: 360px;
   width: 335px;
   border: 2px solid rgb(102, 97, 97);
@@ -17,6 +17,7 @@ h3 {
   margin-bottom: 3em;
   padding: 20px 35px;
   text-align: center;
+
 }
 .card img {
   height: 100px;
@@ -47,4 +48,19 @@ h3 {
 .projects-card {
   display: flex;
   justify-content: space-around;
+}
+@media (max-width: 600px) {
+   .card{
+    width: 80%;
+   }
+  .styles-a{
+    justify-content: center;
+    font-size: .9rem;
+    margin-left: 10px;
+    margin-right: 15px;
+  }
+  a{
+   padding: 10px 15px;
+  }
+ 
 }

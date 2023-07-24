@@ -9,7 +9,7 @@
     box-shadow: 1px 1px 1px 1px rgb(102, 97, 97);
     border-radius: 1em;
     margin: auto;
-    background-color: #c1c1c1;
+    background-color: #f1eaea;
   }
 .styles-menu{
     text-align: center;
@@ -36,4 +36,13 @@
   }
 .imgBorder{
   width: 100%;
+}
+@media (max-width: 830px) {
+  .border-container{
+    font-size: .8rem;
+  }
+  .intro-img{
+    width: 90%;
+    height: 80%;
+  }
 }

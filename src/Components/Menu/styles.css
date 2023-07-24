@@ -18,3 +18,8 @@
     font-size: 5vh;
   }
 
+@media (max-width: 500px){
+  .home-container{
+    font-size: .8rem;
+  }
+}

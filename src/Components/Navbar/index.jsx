@@ -9,12 +9,12 @@ export default function Navbar() {
         <div className="border">
           <span className="logo">{logo}</span>
           <ul className="styles-items">
-            <li className="styles-li"> 
+            <li className="styles-li">
               <a href="#main">Inicio </a>
             </li>
             <li className="styles-li">
               <a href="#cardProfile">Sobre </a>
-              </li>
+            </li>
             <li className="styles-li">
               <a href="#Projects">Projetos </a>
             </li>
